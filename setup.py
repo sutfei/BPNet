@@ -53,8 +53,8 @@ requirements = [
     "tqdm",
 
     # Remove
-    "genomelake",
-    "pysam",  # replace with pyfaidx
+    #"genomelake",
+    #"pysam",  # replace with pyfaidx
 ]
 
 optional = [
